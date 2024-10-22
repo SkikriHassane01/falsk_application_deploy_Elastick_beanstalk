@@ -1,4 +1,4 @@
-## ML-Model-Flask-Deployment
+## Predict Salary Analysis
 This is a demo project to elaborate how Machine Learn Models are deployed on production using Flask API
 
 ### Prerequisites
